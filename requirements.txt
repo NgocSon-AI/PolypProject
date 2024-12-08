@@ -1,0 +1,4 @@
+tensorboardX
+timm==0.6.11
+wandb
+einops
