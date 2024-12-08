@@ -37,7 +37,6 @@ list_of_files = [
     
     # exception
     f"{project_name}/exception/__init__.py",
-    f"{project_name}/exception/exception.py",
     
     #logger
     f"{project_name}/logger/__init__.py",
