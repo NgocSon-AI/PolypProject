@@ -50,8 +50,8 @@ list_of_files = [
     #utils
     # f"{project_name}/utils/__init__.py",
     # f"{project_name}/utils/main_utils.py",
-    "flowcharts"
-    "notebook"
+    "flowcharts",
+    "notebook",
     #"template/index.html",
     ".gitignore",
     # "test/unittest/__init__.py",
