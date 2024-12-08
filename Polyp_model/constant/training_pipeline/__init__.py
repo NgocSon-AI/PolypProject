@@ -10,7 +10,7 @@ TIMESTAMP: datetime = datetime.now().strftime("%m-%d-%Y_%H-%M-%S")
 ########################################
 
 ########### Data Ingestion #############
-ARTIFACT_DIR:str = "artifacts"
+#ARTIFACT_DIR:str = "artifacts"
 
 DATA_FOLDER:str = "data\Polypdataset"
 ########################################
